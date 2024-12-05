@@ -17,7 +17,8 @@ Explanation of Algorithm:
   If income is greater than the end of the current bracket, calculate full estimated tax burden for that bracket (taxBracket.taxRate * (taxBracket.bracketEnd - taxBracket.bracketStart)) and add to calculatedBurden
   If income is less than or equal to the end of the current bracket, calculate partial estimated tax burden for that bracket (taxBracket.taxRate * (income - taxBracket.bracketStart)) and add to calculatedBurden. Break loop  as we have no income in higher tax brackets.
 
-```private double CalculateTaxBurden()
+```
+private double CalculateTaxBurden()
 {
     double calculatedBurden = 0;
 
@@ -36,7 +37,8 @@ Explanation of Algorithm:
         }
     }
     return calculatedBurden;
-}```
+}
+```
 Next Steps:
 1. Add Unit Testing
 2. Add interface definitions for classes
