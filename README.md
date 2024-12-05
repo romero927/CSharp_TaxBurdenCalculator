@@ -8,6 +8,8 @@ Goal: Build a library that allows a user to input Income and Filing Status (curr
 
 Code Here: https://github.com/romero927/CSharp_TaxBurdenCalculator/blob/main/TaxBracketHelper/Program.cs
 
+Example Output Here: https://github.com/romero927/CSharp_TaxBurdenCalculator/blob/main/Tax%20Burden%20Calculator.png
+
 Explanation of Algorithm:
 
 1. Loop through all tax Brackets
@@ -39,4 +41,8 @@ private double CalculateTaxBurden()
 
         }
 
-
+Next Steps:
+1. Add Unit Testing
+2. Add interface definitions for classes
+3. Refactor project structure to be a little bit more standard
+4. This would make a good shared library and could also be put on a RESTful API for quick usage.
