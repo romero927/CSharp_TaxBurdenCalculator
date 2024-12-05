@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using TaxBracketHelper.classes;
 
 Console.WriteLine("2023 Tax Burden (Income = $96,000, Filing = Single): $" + new TaxHelper(96000, TaxHelper.FilingStatus.SINGLE).taxBurden);
@@ -94,7 +94,7 @@ namespace TaxBracketHelper.classes
 
             foreach (TaxBracket taxBracket in TaxBrackets)
             {
-                if (income > taxBracket.bracketEnd)
+                if (taxBracket.bracketEnd != -1 && income > taxBracket.bracketEnd)
                 {
                     //Calculate full tax burden for this bracket
                     calculatedBurden += taxBracket.taxRate * (taxBracket.bracketEnd - taxBracket.bracketStart);
@@ -107,9 +107,7 @@ namespace TaxBracketHelper.classes
                 }
             }
 
-
             return calculatedBurden;
-
         }
 
     }
