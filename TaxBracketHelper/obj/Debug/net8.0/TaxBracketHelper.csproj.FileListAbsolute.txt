@@ -1,0 +1,14 @@
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\bin\Debug\net8.0\TaxBracketHelper.exe
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\bin\Debug\net8.0\TaxBracketHelper.deps.json
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\bin\Debug\net8.0\TaxBracketHelper.runtimeconfig.json
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\bin\Debug\net8.0\TaxBracketHelper.dll
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\bin\Debug\net8.0\TaxBracketHelper.pdb
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.dll
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\refint\TaxBracketHelper.dll
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.pdb
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\TaxBracketHelper.genruntimeconfig.cache
+C:\Users\Kyle\source\repos\TaxBracketHelper\TaxBracketHelper\obj\Debug\net8.0\ref\TaxBracketHelper.dll
